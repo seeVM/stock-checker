@@ -1,0 +1,19 @@
+# Sensitive files
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Playwright profiles & debug output
+iqoo_playwright_profile/
+playwright_debug*.png
+debug_page.html
+
+# Logs
+logs/
+monitor.log
+
