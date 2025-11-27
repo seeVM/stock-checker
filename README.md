@@ -35,9 +35,7 @@ iqoo-stock-watcher/
 
 ### 1. Clone the repository
 
-git clone git@github.com
-
-:seeVM/stock-checker.git
+git clone https://github.com/seeVM/stock-checker.git/
 cd stock-checker
 
 
@@ -78,3 +76,4 @@ python3 -m scripts.monitor
 ### Or with the helper script
 
 ./start_monitor.sh
+
